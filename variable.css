@@ -1,0 +1,21 @@
+:root {
+    --primary-text-color: #757575;
+    --title-text-color: #212121;
+    --accent-color: #2196F3;
+    --white-color: #FFFFFF;
+    --link-footer-color: rgba(255, 255, 255, 0.6);
+    --background-hero-footer-color: #2F303A;
+    --background-our-team-color: #F5F4FA;
+    --black-color: #000000;
+    --button-hover: #188CE8;
+}
+
+body {
+    background-color: var(--white-color);
+    color: var(--primary-text-color);
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.03em;
+    font-size: 14px;
+    line-height: 1.14;
+    width: 1600px;
+}
